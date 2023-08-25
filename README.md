@@ -1,9 +1,11 @@
 # Lychuu
 
-Lychuu Website built on Hydrogen for headless commerce. Hydrogen is designed to dovetail with [Remix](https://remix.run/), Shopify’s full stack web framework. This template contains a **minimal setup** of components, queries and tooling to get started with Hydrogen.
+Lychuu Website built on Hydrogen for headless commerce. Hydrogen is designed to dovetail with [Remix](https://remix.run/), Shopify’s full stack web framework. 
 
 [Lychuu](https://lychuu.com)
+
 [Check out Hydrogen docs](https://shopify.dev/custom-storefronts/hydrogen)
+
 [Get familiar with Remix](https://remix.run/docs/en/v1)
 
 ## What's included
